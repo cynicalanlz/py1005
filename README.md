@@ -1,12 +1,9 @@
-# Решение задач по Python
+# Python tasks solutions
 
 ## 1. 
 
-Дан список людей, типа Билл, Джон, Карл
-их характеристика это рост и количество детей
-
-Нужно создать из них список, где-то имя...где-то фамилия...
-Бежим по ним циклом и выводим суммарное кол-во детей, средний рост и кол-во букв А во всех именах.
+A list of people's characteristics is given: name, height, number of kids.
+Print the overall children number, average height, and a number of 'A' letters in all names.
 
 ## 2. 
 
